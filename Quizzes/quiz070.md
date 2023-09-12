@@ -16,3 +16,4 @@ ip_addresses = IPv4machine()
 print(ip_addresses)
 ```
 <img width="1111" alt="quiz070" src="https://github.com/aineethitari/unit4_repo/assets/112055062/daef1c46-b7b9-439c-8aa6-74929b209fed">
+My computer couldn't handle running when the program loops 256 to the power of 4, so I used a smaller number.
