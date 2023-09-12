@@ -23,5 +23,7 @@ def get_ip(mac:str)->str:
 ```
 
 <img width="1371" alt="quiz073" src="https://github.com/aineethitari/unit4_repo/assets/112055062/eb0f18e5-9932-4b28-b344-ba575bc357b9">
+
+Handwritten code:
 ![quiz073](https://github.com/aineethitari/unit4_repo/assets/112055062/ff1ef834-ac03-4285-add7-198c4b5677ba)
 
