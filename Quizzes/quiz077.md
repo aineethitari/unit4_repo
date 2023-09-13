@@ -27,4 +27,5 @@ print(x1)
 print(x2)
 ```
 ![quiz077](https://github.com/aineethitari/unit4_repo/assets/112055062/d8db3d05-f1ab-4e65-b805-f0b7c1c1e054)
-![quiz077](https://github.com/aineethitari/unit4_repo/assets/112055062/c64dbc51-96f7-471b-bfc7-7e26c19102ec)
+
+<img width="472" alt="quiz077" src="https://github.com/aineethitari/unit4_repo/assets/112055062/78704cf2-356d-45d0-9ab6-265fb1142514">
